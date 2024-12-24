@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=baramhana10.baramhana10&"  />
-</div>
-
-###
-
 <h1 align="left">Hi👋! My name is Bara Mhana</h1>
 
 ###
@@ -55,6 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/baramhana10/baramhana10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J2YzFjeTRiNzFzanV4YnlsN3ZsYmVmcnc1dHRyY2kwcGJtaTV2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.webp"  />
+</div>
 
 ###
